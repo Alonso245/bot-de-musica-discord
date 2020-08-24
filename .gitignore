@@ -1,0 +1,5 @@
+# Dependency files
+node_modules/
+
+# Other
+.github/
